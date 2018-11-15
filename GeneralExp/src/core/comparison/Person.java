@@ -1,10 +1,12 @@
+//basic model for testing 
+
 package core.comparison;
 
 public class Person {
 	String name;
 	String city;
-	
-	
+
+
 	public Person() {
 		super();
 	}
@@ -35,6 +37,6 @@ public class Person {
 	public void setCity(String city) {
 		this.city = city;
 	}
-	
-	
+
+
 }
